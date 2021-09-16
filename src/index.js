@@ -1,3 +1,5 @@
+import _ from 'lodash'
+
 function compornent() {
     const div = document.createElement('div');
     const array = ['Hello', 'webpack']
